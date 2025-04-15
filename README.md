@@ -57,7 +57,6 @@ pandas
 jupyter
 numpy
 ```
-![Alt text](images/my-image.png)
 
 
 You can use the Docker extension sidebar in VS Code to view containers, images, logs, etc.
